@@ -45,15 +45,15 @@
   <ItemGroup>
     <Compile Include="check.cs" />
     <Compile Include="customer.cs" />
-    <Compile Include="DismissedProducts.cs" />
-    <Compile Include="IDismiss.cs" />
+    <Compile Include="DeletedScroll.cs" />
+    <Compile Include="SDelete.cs" />
     <Compile Include="order.cs" />
     <Compile Include="pass.cs" />
     <Compile Include="product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="scroll.cs" />
-    <Compile Include="TemporaryProduct.cs" />
+    <Compile Include="TemporaryScroll.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    public interface IDismiss
+    public interface SDelete
     {
-        void Dismiss();
+        void Delete();
     }
 }
